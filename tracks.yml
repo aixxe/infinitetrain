@@ -1,0 +1,39 @@
+# Tetsudou-Musume Vol. 01-12 aka train to train / trainroll [362762]
+# Info hash v1: 191d645aa6805ba1e2f28cee5e8721b9f0a52eda
+tracks:
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.1栗橋みなみ/04 - トレイン to トレイン 栗橋みなみ.flac'
+    lead in: 275433         # when mixing with a track that's about to end, start on this sample
+    lead out: 3548126       # start mixing in the next track upon reaching this sample
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.2久慈ありす/04 - トレイン to トレイン 久慈ありす.flac'
+    lead in: 276129
+    lead out: 3550994
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.3鷹野みゆき/04 - トレイン to トレイン 鷹野みゆき.flac'
+    lead in: 268445
+    lead out: 3544577
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.4 外川つくし/04 - トレインToトレイン外川つくし.flac'
+    lead in: 284394
+    lead out: 3560843
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.5 八木沢まい/04 - トレインToトレイン八木沢まい.flac'
+    lead in: 267417
+    lead out: 3542834
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.6 門田さくら/04 - トレインToトレイン門田さくら.flac'
+    lead in: 300269
+    lead out: 3577862
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.7 中山ゆかり/04 - トレインtoトレイン中山ゆかり.flac'
+    lead in: 287090
+    lead out: 3562818
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.8 春日部しあ/04 - トレインtoトレイン春日部しあ.flac'
+    lead in: 286738
+    lead out: 3561784
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターソング Vol.9 大月みーな/04 - トレインtoトレイン大月みーな.flac'
+    lead in: 269795
+    lead out: 3546106
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターンング Vol.10 渋沢あさぎ/04 - トレインtoトレイン渋沢あさぎ.flac'
+    lead in: 286792
+    lead out: 3562153
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターンング Vol.11 渡瀬きぬ/04 - トレインtoトレイン #渡瀬きぬ.flac'
+    lead in: 310769
+    lead out: 3584125
+  - file: './Tetsudou-Musume/鉄道むすめ キャラクターンング Vol.12 平泉あおば & つばさ/04 - トレインtoトレイン #平泉あおば & つばさ.flac'
+    lead in: 283056
+    lead out: 3558444
